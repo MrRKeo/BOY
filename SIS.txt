@@ -1,9 +1,12 @@
 {
 "Version":"4",
-"Url":"https://raw.githubusercontent.com",
+"Url":"https://raw.githubusercontent.com/MrRKeo/BOY/main/SOKVPN.zip",
 "Changelog":"
 
-Hello would!!!?
+Helloខ្មែរ
+🇹🇭
+🇰🇭
+
 
 ",
  "releaseNotes": [
